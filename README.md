@@ -1,2 +1,2 @@
 # JUnitExample
-ejemplo de Junit en java
+Ejemplo de Junit en java
